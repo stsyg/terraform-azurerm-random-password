@@ -13,7 +13,7 @@ More information;
 
 | Name | Version |
 |------|---------|
-| random | >= 3.0.0 |
+| random | >= 3.2.0 |
 
 ## Inputs
 
